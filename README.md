@@ -16,3 +16,5 @@ Use the Student Performance on an Entrance Examination dataset to build a model 
 - Python 3.x
 - pandas
 - scipy
+- scikit-learn
+- matplotlib
