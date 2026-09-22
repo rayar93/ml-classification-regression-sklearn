@@ -1,4 +1,4 @@
-# AI-Project-GroupSCR
+# ml-classification-regression-sklearn
 
 Midterm project for CS 4440 — Artificial Intelligence, Appalachian State University.
 
@@ -19,7 +19,7 @@ Full write-up in [`report/report.pdf`](report/report.pdf).
 
 ## Repository structure
 ```
-AI-PROJECT-GROUPSCR/
+ml-classification-regression-sklearn//
 ├── data/
 │   ├── raw/
 │   │   ├── CEE_DATA.arff
@@ -36,8 +36,8 @@ AI-PROJECT-GROUPSCR/
 ## Setup
 
 ```bash
-git clone https://github.com/zachshotwell/AI-Project-GroupSCR
-cd AI-Project-GroupSCR
+git clone https://github.com/rayar93/ml-classification-regression-sklearn
+cd ml-classification-regression-sklearn
 pip install -r requirements.txt
 ```
 
