@@ -1,11 +1,11 @@
-# ml-classification-regression-sklearn
+# Machine Learning Classification & Regression (scikit-learn)
 
-Midterm project for CS 4440 — Artificial Intelligence, Appalachian State University.
+Team project - CS 4440 Artificial Intelligence, Appalachian State University.
 
-**Team:** Alan Ray · Zach Shotwell · Miguel Moreno Coin
+**Members:** Alan Ray · Zach Shotwell · Miguel Moreno Coin
 
 ## Overview
-Two end-to-end supervised learning pipelines:
+Two end-to-end supervised learning pipelines, submitted as the midterm project:
 
 - **Classification** — Predicts student performance category (Average / Good / Very Good / Excellent)
   from demographic and academic features using the CEE Student Entrance Exam dataset.
@@ -19,7 +19,7 @@ Full write-up in [`report/report.pdf`](report/report.pdf).
 
 ## Repository structure
 ```
-ml-classification-regression-sklearn//
+ml-classification-regression-sklearn/
 ├── data/
 │   ├── raw/
 │   │   ├── CEE_DATA.arff
