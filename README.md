@@ -15,7 +15,6 @@ Two end-to-end supervised learning pipelines, submitted as the midterm project:
   Best model: Random Forest, R²=0.991, RMSE=1,078s.
 
 Each task compares four models evaluated via 10-fold cross-validation and tuned with GridSearchCV.
-Full write-up in [`report/report.pdf`](report/report.pdf).
 
 ## Repository structure
 ```
@@ -29,7 +28,7 @@ ml-classification-regression-sklearn/
 │       └── Auction_Verification.csv
 ├── notebooks/
 │   └── midterm_project.ipynb
-├── report/
+├── reports/
 │   └── report.pdf
 └── requirements.txt
 ```
@@ -48,3 +47,7 @@ Open `notebooks/midterm_project.ipynb` in VSCode or JupyterLab and run all cells
 ## Requirements
 
 See `requirements.txt`. Key dependencies: `pandas`, `numpy`, `scipy`, `scikit-learn`, `matplotlib`, `joblib`.
+
+## Report
+
+- **Report:** [reports/report.pdf](reports/report.pdf) - the midterm write-up covering both pipelines and all eight models
