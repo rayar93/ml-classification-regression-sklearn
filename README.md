@@ -1,6 +1,6 @@
 # Machine Learning Classification & Regression (scikit-learn)
 
-**Try it:** [Run it in Google Colab](https://colab.research.google.com/github/rayar93/ml-classification-regression-sklearn/blob/main/notebooks/midterm_project.ipynb) - nothing to install, needs a free Google account.
+**Try it:** [Run it in Google Colab](https://colab.research.google.com/github/rayar93/ml-classification-regression-sklearn/blob/main/notebooks/midterm_project.ipynb)
 
 Team project - CS 4440 Artificial Intelligence, Appalachian State University.
 
@@ -9,10 +9,10 @@ Team project - CS 4440 Artificial Intelligence, Appalachian State University.
 ## Overview
 Two end-to-end supervised learning pipelines, submitted as the midterm project:
 
-- **Classification** — Predicts student performance category (Average / Good / Very Good / Excellent)
+- **Classification** - Predicts student performance category (Average / Good / Very Good / Excellent)
   from demographic and academic features using the CEE Student Entrance Exam dataset.
   Best model: Logistic Regression, 54.4% test accuracy (25% random-chance baseline).
-- **Regression** — Predicts auction verification runtime (`verification.time`) from auction process
+- **Regression** - Predicts auction verification runtime (`verification.time`) from auction process
   parameters using the Auction Verification dataset.
   Best model: Random Forest, R²=0.991, RMSE=1,078s.
 
