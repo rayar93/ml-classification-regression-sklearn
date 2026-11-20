@@ -1,5 +1,7 @@
 # Machine Learning Classification & Regression (scikit-learn)
 
+**Try it:** [Run it in Google Colab](https://colab.research.google.com/github/rayar93/ml-classification-regression-sklearn/blob/main/notebooks/midterm_project.ipynb) - nothing to install, needs a free Google account.
+
 Team project - CS 4440 Artificial Intelligence, Appalachian State University.
 
 **Members:** Alan Ray · Zach Shotwell · Miguel Moreno Coin
